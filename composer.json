@@ -14,7 +14,7 @@
         {
             "type": "git",
             "url":  "https://github.com/bramtweedegolf/changelog-parser.git"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.9",
